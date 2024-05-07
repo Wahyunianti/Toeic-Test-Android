@@ -3,7 +3,8 @@ Berikut adalah tampilan setiap hak aksesnya :
 
 
 Dashboard <br>
-![WhatsApp Image 2024-05-07 at 17 10 06 (1)](https://github.com/Wahyunianti/Toeic-Test-Android/assets/122524103/90fd10ec-fec1-4915-afa0-5be3aa930a61)
+<img src="![WhatsApp Image 2024-05-07 at 17 10 06 (1)](https://github.com/Wahyunianti/Toeic-Test-Android/assets/122524103/90fd10ec-fec1-4915-afa0-5be3aa930a61)" alt="Deskripsi Gambar" width="300" height="auto">
+
 
 Tes Mysql <br>
 ![WhatsApp Image 2024-05-07 at 17 10 06](https://github.com/Wahyunianti/Toeic-Test-Android/assets/122524103/ec8b54d5-310c-44e5-a606-56fc67b3df7d)
